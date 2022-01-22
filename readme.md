@@ -1,6 +1,4 @@
-Bagi yang ingin tutorial instalasi project ini silahkan cek https://youtu.be/XpGbmo3ZctE
-
-Intruksi manual
+## Intruksi manual
 Ketikkan:
 1. Composer Install
 2. cp .env.example .env
@@ -8,7 +6,7 @@ Ketikkan:
 4. php artisan migrate (Jangan lupa set up database)
 5. php artisan db:seed
 
-Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
+## Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
 1. Integrasikan semua page menggunakan meta dan belajar membuat site map
 2. Integrasikan text editor menggunakan Laravel File Manager (Silahkan cek video terbaru saya untuk tutorialnya)
 3. Belajar menggunakan ajax dan datatables (Cek video terbaru saya soal ajax datatables)
@@ -28,5 +26,4 @@ Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
 17. Test Score website kalian menggunakan tool ini https://gtmetrix.com/
 18. Semoga berhasil
 
-Btw saya mungkin gak bisa cover semua hal diatas pada chanel saya.. tapi gak ada salahnya kan belajar mandiri?
-Good luck.. Kamu bisa.. iya kamu.. !!
+## Cukup Sekian
