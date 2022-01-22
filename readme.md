@@ -9,7 +9,7 @@ Ketikkan:
 ## Bagi yang ingin kembangkan menjadi lebih baik maka saya akan kasih beberapa clue
 1. Integrasikan semua page menggunakan meta dan belajar membuat site map
 2. Integrasikan text editor menggunakan Laravel File Manager (Silahkan cek video terbaru saya untuk tutorialnya)
-3. Belajar menggunakan ajax dan datatables (Cek video terbaru saya soal ajax datatables)
+3. Belajar menggunakan ajax dan datatables
 4. Tambahkan captcha untuk menghindari bot jahat pada halaman login (Jika sudah hosting)
 5. Gunakan package laravel sluggable dan integarsikan menggunakan ajax agar slug tergenerate otomatis dan menjadi unik meski judul postingan sama
 6. Tambahkan opsi publish dan unpublish
